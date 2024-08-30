@@ -11,16 +11,15 @@
 - Programming Languages:
     <p align="left">
         <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="logos/c.svg" alt="C++" width="40" height="40"/> </a>
-        Python
-        Bash
-        Matlab
-        
+        <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="logos/python-5.svg" alt="Python" width="40" height="40"/> </a>
+        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="logos/bash-2.svg" alt="Bash" width="40" height="40"/> </a>
+        <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="logos/matlab.svg" alt="Matlab" width="40" height="40"/> </a>
     </p>
 
 - Librairies:
     <p align="left">
-       Lethe
-       Deal.ii
+       <a href="https://chaos-polymtl.github.io/lethe/" target="_blank" rel="noreferrer"> <img src="logos/round-logo-white-without-bkgd.png" alt="Lethe" width="40" height="40"/> </a>
+       <a href="https://www.dealii.org/" target="_blank" rel="noreferrer"> <img src="logos/dealii-petit-no-bg.png" alt="deal.ii" width="40" height="40"/> </a>
         
     </p>
 
