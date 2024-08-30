@@ -10,20 +10,30 @@
 
 - Programming Languages:
     <p align="left">
-      
+        C++
+        Python
+        Bash
+        Matlab
+        
+    </p>
+
+- Librairies:
+    <p align="left">
+       Lethe
+       Deal.ii
+        
     </p>
 
 - Scientific Tools
     <p align="left">
-      
+        Paraview
+        Gmsh
+        Pointwise
+        Git
+        Latex
+        Helix
     </p>
 
-
-- Techs:
-    <p align="left">
-    
-
-    </p>
 
 Some knowledge or experience in :
 
