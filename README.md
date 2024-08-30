@@ -10,7 +10,7 @@
 
 - Programming Languages:
     <p align="left">
-        C++
+        <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="logos/c.svg" alt="C++" width="40" height="40"/> </a>
         Python
         Bash
         Matlab
