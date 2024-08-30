@@ -10,20 +10,30 @@
 
 - Programming Languages:
     <p align="left">
-      
+        <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="logos/c.svg" alt="C++" width="40" height="40"/> </a>
+        Python
+        Bash
+        Matlab
+        
+    </p>
+
+- Librairies:
+    <p align="left">
+       Lethe
+       Deal.ii
+        
     </p>
 
 - Scientific Tools
     <p align="left">
-      
+        Paraview
+        Gmsh
+        Pointwise
+        Git
+        Latex
+        Helix
     </p>
 
-
-- Techs:
-    <p align="left">
-    
-
-    </p>
 
 Some knowledge or experience in :
 
