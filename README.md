@@ -2,9 +2,9 @@
 
 <h3 align="center"> I like numerical simulations 💻, coffee ☕ and volleyball 🏐  </h3>
 
-<h4 align="center"> I went to CentraleSupélec in France 🇫🇷 to study engineering and finished my studies in Polytechnique Montréal 🇨🇦 to specialize in numerical simulations </h4>
+<h4 align="center"> I went to CentraleSupélec in France 🇫🇷 to study engineering and finished my studies in Polytechnique Montréal 🇨🇦 to specialize in numerical simulations. </h4>
 
-<h4 align="center"> I am currently looking for a job as simulation (CFD) engineer in Aeronautics, Aerospatial or Chemistry where I can make the best use of my knowledge and technical skills ! </h4>
+<h4 align="center"> I am currently looking for a job as simulation (CFD) engineer (Aeronautics, Aerospatial or Chemistry) or simulation software developer where I can make the best use of my knowledge and technical skills ! </h4>
 
 ---
 
@@ -25,7 +25,7 @@
         
     </p>
 
-- Scientific Tools
+- Scientific Tools:
     <p align="left">
         <a href="https://www.paraview.org/" target="_blank" rel="noreferrer"> <img src="logos/paraview.png" alt="Paraview" width="40" height="40"/> </a>
         <a href="https://gmsh.info/" target="_blank" rel="noreferrer"> <img src="logos/gmsh-cropped.png" alt="Gmsh" width="40" height="40"/> </a>
@@ -38,7 +38,7 @@
 ---
 <h3> Projects I have worked on : </h3>
 
-- From January 2023 to August 2024, I did my master's in the CHAOS (Chem. eng. High-performance Analysis Optimization and Simulation) group, I have worked on [Lethe](https://github.com/chaos-polymtl/lethe), an open-source CFD software using the finite elements method. This lead to the implementation of a solver for the Cahn-Hilliard equations which, coupled to the Navier-Stokes solver, allows to simulate multiphase flows. Below are two animations showing the detachment of a bubble in a quiescent (left) or moving (right) liquid.
+- From January 2023 to August 2024, I did my master's in the CHAOS (Chem. eng. High-performance Analysis Optimization and Simulation) group, I have worked on [Lethe](https://github.com/chaos-polymtl/lethe), an open-source CFD software using the finite elements method. This lead to the implementation of a solver for the Cahn-Hilliard equations which, coupled to the Navier-Stokes solver, allows to simulate multiphase flows. Below are two animations showing the detachment of a bubble in a quiescent (top) or moving (bottom) liquid.
 <p align="center">
     <a href="https://github.com/chaos-polymtl/lethe" target="_blank" rel="noreferrer">
         <img src="animations/low_sigma_no_shear.gif" alt="No shear bubble detachment" width="400" height="229"/>
@@ -53,8 +53,6 @@
 
 
 <!--
- ![No shear bubble detachment](animations/low_sigma_no_shear.gif)
-![Shear bubble detachment](animations/low_sigma_shear.gif)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
