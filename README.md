@@ -4,7 +4,9 @@
 
 <h4 align="center"> I went to CentraleSupélec in France 🇫🇷 to study engineering and finished my studies in Polytechnique Montréal 🇨🇦 to specialize in numerical simulations </h4>
 
-<h4 align="center"> I am currently looking for a job as simulation (CFD) engineers in Aeronautics, Aerospatial or Chemistry where I can make the best use of my knowledge and technical skills ! </h4>
+<h4 align="center"> I am currently looking for a job as simulation (CFD) engineer in Aeronautics, Aerospatial or Chemistry where I can make the best use of my knowledge and technical skills ! </h4>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -30,7 +32,7 @@
         <a href="https://www.cfd-technologies.co.uk/fidelity-pointwise/" target="_blank" rel="noreferrer"> <img src="logos/fidelity_512x512.png" alt="Fidelity Pointwise" width="40" height="40"/> </a>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="logos/git-icon.svg" alt="Git" width="40" height="40"/> </a>
         <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="logos/latex.svg" alt="LaTeX" width="40" height="40"/> </a>
-        <a href="https://helix-editor.com/" target="_blank" rel="noreferrer"> <img src="logos/logo_light.svg" alt="Helix" width="40" height="40"/> </a>
+        <a href="https://helix-editor.com/" target="_blank" rel="noreferrer"> <img src="logos/helix_no_text.svg" alt="Helix" width="40" height="40"/> </a>
     </p>
 
 
