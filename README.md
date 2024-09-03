@@ -38,10 +38,23 @@
 ---
 <h3> Projects I have worked on : </h3>
 
-- From January 2023 to August 2024, I did my master's in the CHAOS (Chem. eng. High-performance Analysis Optimization and Simulation) group, I have worked on [Lethe](https://github.com/chaos-polymtl/lethe), an open-source CFD software using the finite elements method. This lead to the implementation of a solver for the Cahn-Hilliard equations which, coupled to the Navier-Stokes solver, allows to simulate multiphase flows.
+- From January 2023 to August 2024, I did my master's in the CHAOS (Chem. eng. High-performance Analysis Optimization and Simulation) group, I have worked on [Lethe](https://github.com/chaos-polymtl/lethe), an open-source CFD software using the finite elements method. This lead to the implementation of a solver for the Cahn-Hilliard equations which, coupled to the Navier-Stokes solver, allows to simulate multiphase flows. Below are two animations showing the detachment of a bubble in a quiescent (left) or moving (right) liquid.
+<p align="center">
+    <a href="https://github.com/chaos-polymtl/lethe" target="_blank" rel="noreferrer">
+        <img src="animations/low_sigma_no_shear.gif" alt="No shear bubble detachment" width="400" height="229"/>
+    </a>
+    <a href="https://github.com/chaos-polymtl/lethe" target="_blank" rel="noreferrer">
+        <img src="animations/low_sigma_shear.gif" alt="Shear bubble detachment" width="518" height="229"/>
+    </a>
+</p>
+
+
+
+
 
 <!--
-
+ ![No shear bubble detachment](animations/low_sigma_no_shear.gif)
+![Shear bubble detachment](animations/low_sigma_shear.gif)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
