@@ -20,7 +20,7 @@
 
 - Librairies:
     <p align="left">
-       <a href="https://chaos-polymtl.github.io/lethe/" target="_blank" rel="noreferrer"> <img src="logos/round-logo-white-without-bkgd.png" alt="Lethe" width="40" height="40"/> </a>
+       <a href="https://chaos-polymtl.github.io/lethe/" target="_blank" rel="noreferrer"> <img src="logos/round-logo-with-bkgd.png" alt="Lethe" width="40" height="40"/> </a>
        <a href="https://www.dealii.org/" target="_blank" rel="noreferrer"> <img src="logos/dealii-petit-no-bg.png" alt="deal.ii" width="40" height="40"/> </a>
         
     </p>
