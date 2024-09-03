@@ -30,7 +30,7 @@
         <a href="https://www.cfd-technologies.co.uk/fidelity-pointwise/" target="_blank" rel="noreferrer"> <img src="logos/fidelity_512x512.png" alt="Fidelity Pointwise" width="40" height="40"/> </a>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="logos/git-icon.svg" alt="Git" width="40" height="40"/> </a>
         <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="logos/latex.svg" alt="LaTeX" width="40" height="40"/> </a>
-        <a href="https://helix-editor.com/" target="_blank" rel="noreferrer"> <img src="logos/logo_light" alt="Helix" width="40" height="40"/> </a>
+        <a href="https://helix-editor.com/" target="_blank" rel="noreferrer"> <img src="logos/logo_light.svg" alt="Helix" width="40" height="40"/> </a>
     </p>
 
 
