@@ -28,20 +28,17 @@
 - Scientific Tools
     <p align="left">
         <a href="https://www.paraview.org/" target="_blank" rel="noreferrer"> <img src="logos/paraview.png" alt="Paraview" width="40" height="40"/> </a>
-        <a href="https://gmsh.info/" target="_blank" rel="noreferrer"> <img src="logos/gmsh.png" alt="Gmsh" width="40" height="40"/> </a>
+        <a href="https://gmsh.info/" target="_blank" rel="noreferrer"> <img src="logos/gmsh-cropped.png" alt="Gmsh" width="40" height="40"/> </a>
         <a href="https://www.cfd-technologies.co.uk/fidelity-pointwise/" target="_blank" rel="noreferrer"> <img src="logos/fidelity_512x512.png" alt="Fidelity Pointwise" width="40" height="40"/> </a>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="logos/git-icon.svg" alt="Git" width="40" height="40"/> </a>
         <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="logos/latex.svg" alt="LaTeX" width="40" height="40"/> </a>
         <a href="https://helix-editor.com/" target="_blank" rel="noreferrer"> <img src="logos/helix_no_text.svg" alt="Helix" width="40" height="40"/> </a>
     </p>
 
-
-Some knowledge or experience in :
-
-
-
 ---
 <h3> Projects I have worked on : </h3>
+
+- From January 2023 to August 2024, I did my master's in the CHAOS (Chem. eng. High-performance Analysis Optimization and Simulation) group, I have worked on [Lethe](https://github.com/chaos-polymtl/lethe), an open-source CFD software using the finite elements method. This lead to the implementation of a solver for the Cahn-Hilliard equations which, coupled to the Navier-Stokes solver, allows to simulate multiphase flows.
 
 <!--
 
