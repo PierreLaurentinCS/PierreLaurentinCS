@@ -2,9 +2,9 @@
 
 <h3 align="center"> I like numerical simulations 💻, coffee ☕ and volleyball 🏐  </h3>
 
-<h4 align="center"> I went to CentraleSupélec in France 🇫🇷 to study engineering and finished my studies in Polytechnique Montréal 🇨🇦 to specialize in numerical simulations </h4>
+<h4 align="center"> I went to CentraleSupélec in France 🇫🇷 to study engineering and finished my studies in Polytechnique Montréal 🇨🇦 to specialize in numerical simulations. </h4>
 
-<h4 align="center"> I am currently looking for a job as simulation (CFD) engineer in Aeronautics, Aerospatial or Chemistry where I can make the best use of my knowledge and technical skills ! </h4>
+<h4 align="center"> I am currently looking for a job as simulation (CFD) engineer (Aeronautics, Aerospatial or Chemistry) or simulation software developer where I can make the best use of my knowledge and technical skills ! </h4>
 
 ---
 
@@ -25,7 +25,7 @@
         
     </p>
 
-- Scientific Tools
+- Scientific Tools:
     <p align="left">
         <a href="https://www.paraview.org/" target="_blank" rel="noreferrer"> <img src="logos/paraview.png" alt="Paraview" width="40" height="40"/> </a>
         <a href="https://gmsh.info/" target="_blank" rel="noreferrer"> <img src="logos/gmsh-cropped.png" alt="Gmsh" width="40" height="40"/> </a>
