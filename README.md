@@ -1,10 +1,10 @@
-## Hi! You're looking at Pierre Laurentin's Github profile !
+## Hi! You're looking at Pierre Laurentin's Github profile!
 
 <h3 align="center"> I like numerical simulations 💻, coffee ☕ and volleyball 🏐  </h3>
 
 <h4 align="center"> I went to CentraleSupélec in France 🇫🇷 to study engineering and finished my studies in Polytechnique Montréal 🇨🇦 to specialize in numerical simulations. </h4>
 
-<h4 align="center"> I am currently looking for a job as simulation (CFD) engineer (Aeronautics, Aerospatial or Chemistry) or simulation software developer where I can make the best use of my knowledge and technical skills ! </h4>
+<h4 align="center"> I am currently looking for a job as simulation (CFD) engineer (Aeronautics, Aerospatial or Chemistry) or simulation software developer where I can make the best use of my knowledge and technical skills! </h4>
 
 ---
 
